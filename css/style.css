@@ -671,15 +671,15 @@ html {
       z-index: 1;
       transition: 0.6s all; }
     .portfolio-card .logo__smart {
-      background: url(../../icons/logo/logo-RanSmart.png) center no-repeat; }
+      background: url(../icons/logo/logo-RanSmart.png) center no-repeat; }
     .portfolio-card .logo__club {
-      background: url(../../icons/logo/logo-MonsterClub.svg) center no-repeat; }
+      background: url(../icons/logo/logo-MonsterClub.svg) center no-repeat; }
     .portfolio-card .logo__uber {
-      background: url(../../img/logo/logo-Uber_car1.png) center/contain no-repeat;
+      background: url(../img/logo/logo-Uber_car1.png) center/contain no-repeat;
       bottom: -19px;
       top: auto; }
     .portfolio-card .logo__gefest {
-      background: url(../../img/logo/gefest_one-squeezed_delet.gif) center/contain no-repeat;
+      background: url(../img/logo/gefest_one-squeezed_delet.gif) center/contain no-repeat;
       bottom: 0;
       top: auto; }
     .portfolio-card:hover .portfolio-card__logo {
