@@ -687,7 +687,8 @@ html {
     .portfolio-card:hover .portfolio-card__block {
       height: 100%; }
     .portfolio-card:hover .portfolio__work-item {
-      opacity: 0; }
+      opacity: 0;
+      transition: 0.6s all; }
     .portfolio-card__block {
       height: 0%;
       position: absolute;
